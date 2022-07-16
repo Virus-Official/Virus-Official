@@ -1,0 +1,37 @@
+Below is all of the know issues for the survival server with the proper error codes.
+
+Error 00001
+- Some players are getting "Connection refused no further information"
+Fixed: true
+Logg: 
+- [7/14/2022] Got a new domain which cause the server to no verify ip's currently finding a solution.
+- [7/15/2022] Implemented a fix connect with the new ip "lay.virus-official.com"
+- [7/15/2022] New bedrock port "25565"
+
+Error 00002
+- Anticheat is kicking bedrock players
+Fixed: false
+
+Error 00002
+- Bedrock players cannot see custom items.
+Fixed: false
+
+Error 00003
+- Crates offline due to being able to open them without the key
+Fixed: false
+
+Error 00004
+- Claim Trusting people not working
+Fixed: false
+
+Error 00005
+- Some models are showing as corrupted (This is only effecxt 1.17.2 and below and 1.18.2 and up)
+Fixed: false
+
+Error 00006
+- Ranks permisions not working
+Fixed: false
+
+Error 00007
+- People able to use XRAY
+Fixed: false
