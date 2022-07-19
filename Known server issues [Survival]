@@ -2,15 +2,17 @@ Below is all of the know issues for the survival server with the proper error co
 
 Error 00001
 - Some players are getting "Connection refused no further information"
-Fixed: true
-Logg: 
+Status: Fixed✔️
+Log: 
 - [7/14/2022] Got a new domain which cause the server to no verify ip's currently finding a solution.
-- [7/15/2022] Implemented a fix connect with the new ip "lay.virus-official.com"
+- [7/15/2022] Implemented a fix connect with the new ip "play.virus-official.com"
 - [7/15/2022] New bedrock port "25565"
 
 Error 00002
 - Anticheat is kicking bedrock players
-Fixed: false
+Status: Being looked into...
+Log:
+- [7/18/22] Started an investegation on this error. we will keep you informed.
 
 Error 00002
 - Bedrock players cannot see custom items.
