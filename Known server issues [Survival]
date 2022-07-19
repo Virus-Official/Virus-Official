@@ -37,3 +37,7 @@ Fixed: false
 Error 00007
 - People able to use XRAY
 Fixed: false
+
+Error 00008
+- 1.8.9 will cause resource pack to show all blocks courupted.
+Status: Not fixed X
