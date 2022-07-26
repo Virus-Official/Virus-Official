@@ -43,3 +43,7 @@ Fixed: false
 Error 00008
 - 1.8.9 will cause resource pack to show all blocks courupted.
 Status: Not fixed X
+
+Error 00009
+- Bedrock player cannot join Geyser needs to be updated.
+status fixed
